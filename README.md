@@ -54,3 +54,15 @@ The landscape of image generation has rapidly evolved, from early GAN-based appr
 </details>
 
 [📄 Paper](https://arxiv.org/pdf/2504.05979)
+
+## ❤️ BibTeX 
+
+```bib
+@article{yan2025gpt-imgeval,
+      title={GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation}, 
+      author={Zhiyuan Yan and Junyan Ye and Weijia Li and Zilong Huang and Shenghai Yuan and Xiangyang He and Kaiqing Lin and Jun He and Conghui He and Li Yuan},
+      journal={arXiv preprint arXiv:2504.02782},
+      year={2025},
+}
+```
+
