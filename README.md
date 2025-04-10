@@ -2,7 +2,7 @@
 📑🔍💡 An extensive repository of tools, research, and resources for leveraging GPT models in image generation tasks.
 
 ## 📢 Latest Updates
-* Apr-10-2025: 🎉 ${\color{red} First\ update!}$ Add 4 papers and 1 tool.
+* Apr-10-2025: 🎉 ${\color{red} First\ update!}$ Add 4 papers and 2 tool.
 
 ## Table of contents
 - 🔨 [Tools](#tools)
